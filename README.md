@@ -5,7 +5,7 @@
 #
 # About Website :
 -----------------------
-- Languages Used on the Site : HTML, CSS, Bootstrap, JS,
+- Languages Used in This Site : HTML, CSS, Bootstrap, JS,
 - This is a Personal Website Include All My Projects and Info About Me
 #
 # Website Link :

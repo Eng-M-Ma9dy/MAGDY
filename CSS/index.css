@@ -332,19 +332,19 @@ body{
     height: 500px;
 }
 
-#carouselExampleIndicators1 img{
-    transition: 1s;
-}
-#carouselExampleIndicators1 img:hover{
-    transform: scale(0.95);
-}
-
 #carouselExampleIndicators1 .practical_card{
     transition: 1s;
 }
 #carouselExampleIndicators1 .practical_card:hover{
     transform: scale(0.95);
     border: solid black 5px !important ;
+}
+
+#carouselExampleIndicators1 img{
+    transition: 1s;
+}
+#carouselExampleIndicators1 .practical_card:hover:hover img{
+    transform: scale(0.95);
 }
 
 #carouselExampleIndicators2 .practical_card{

@@ -254,6 +254,7 @@ body{
     display: none;
     padding: 16px;
     margin: auto;
+    overflow: hidden;
 }
 
 #infoDiv i:hover{
